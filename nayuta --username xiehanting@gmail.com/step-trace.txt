@@ -1,0 +1,5 @@
+C:\Users\HantingXie\Desktop\Falcom\jpcsp-2834-windows-amd64\jpcsp-windows-amd64\umdimages\cvn-edzk.iso
+Instruction Trace Dump - Unknown
+
+Local depth: 5
+
